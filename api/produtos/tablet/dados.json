@@ -1,7 +1,7 @@
 {
     "id": "tablet",
     "nome": "Tablet",
-    "preco": "6999",
+    "preco": 6999,
     "descricao": "lalalalalala",
     "estoque": 12,
     "img": "./api/produtos/tablet/tablet-foto.jpg",
