@@ -1,0 +1,30 @@
+{
+    "id": "iphone",
+    "nome": "Iphone 14",
+    "preco": 7599,
+    "descricao": "Apple iPhone 14 128GB Estelar 6,1” 12MP iOS 5G. O iPhone 14 tem o sistema de câmera dupla mais impressionante em um iPhone, para fazer fotos espetaculares em pouca e muita luz. E você ganha tranquilidade com nosso novo recurso essencial de segurança.",
+    "estoque": 12,
+    "img": "./api/produtos/iphone/iphone-foto.jpg",
+    "especificacoes": [
+        "Tela Super Retina XDR de 6,1 polegadas;",
+        "Sistema de câmera avançado para fotos melhores em qualquer luz;",
+        "Modo Cinema, agora em 4K Dolby Vision até 30 qps;",
+        "Modo Ação para vídeos em movimento com mais estabilidade;",
+        "Tecnologia de segurança — Detecção de Acidente, que liga para a emergência se você não puder."
+
+    ],
+
+    "avaliacoes": [
+        {
+            "nome": "Mariana Rezende",
+            "estrelas": 5,
+            "descricao": "Faz anos que só uso iPhone e não troco por outro! Fui do XR para o 14 e estou muito satisfeita. As câmeras são ótimas, as funcionalidades do celular supre todas as necessidades do meu dia a dia. Creio que o único ponto que a Apple ainda deixa a desejar é a questão da bateria. Utilizo ele o dia inteiro sem precisar carregar, porém sei que existem outros smartphones do mercado com desempenho melhor nesse sentido. Enfim, tirando isso.. tudo ótimo!"           
+        },
+        {
+            "nome": "Azubac Markovic",
+            "estrelas": 5,
+            "descricao": "Bom e recomendo!"
+        }
+
+    ]
+}

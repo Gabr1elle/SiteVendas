@@ -1,20 +1,28 @@
 {
     "id": "smartwatch",
     "nome": "Smartwatch",
-    "preco": 1259,
-    "descricao": "lalalalalala",
+    "preco": 3699,
+    "descricao": "Apple Watch Series 8 (GPS), Smartwatch com caixa meia-noite de alumínio – 45 mm • Pulseira esportiva meia-noite padrão.",
     "estoque": 12,
     "img": "./api/produtos/smartwatch/smartwatch-foto.jpg",
+    "especificacoes": [
+        "O Apple Watch Series 8 tem sensores e apps avançados de saúde, que permitem fazer um ECG, ver sua frequência cardíaca e o nível de oxigênio no sangue;",
+        "Acompanhar as variações de temperatura;",
+        "Serve para informações detalhadas sobre seu ciclo menstrual;",
+        "Detecção de Acidente;",
+        "Monitoramento dos estágios do sono e as métricas avançadas de exercícios ajudam você a ter uma vida ativa, saudável, segura e conectada."
+    ],
+
     "avaliacoes": [
         {
-            "nome": "Fabio",
+            "nome": "Fabio Gimenez",
             "estrelas": 5,
-            "descricao": "Otimo produto"           
+            "descricao": "Apple sempre possuiu qualidade primorosa e robustez. Em comparação com Samsung Watch, fica um pouco abaixo da expectativa, pois possui menor autonomia de bateria e sensibilidade (ex: sono da tarde não registra,…). Achei tamanho/peso adequado e confortável, bons sensores de batimentos, bateria com duração de 48h."           
         },
         {
-            "nome": "Natalia",
-            "estrela": "1",
-            "descricao": "Pessimo!"
+            "nome": "João Bosco",
+            "estrelas": 4,
+            "descricao": "O relógio é feito basicamente para funcionar como uma extensão do iPhone no seu pulso, sobretudo para notificações e possui muitas funcionalidades de apoio ao monitoramento da saúde. Dentro dessa proposta atua perfeitamente. O problema é o preço. Para fazer “só” isso você consegue ótimas opções no mercado pagando metade do valor!"
         }
 
     ]

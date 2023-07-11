@@ -1,10 +1,19 @@
 {
     "id": "macbook",
-    "nome": "Mackbook",
+    "nome": "Macbook",
     "preco": 16999,
     "descricao": "Notebook MacBook Air (2023) Apple com chip M2: tela Liquid Retina de 15,3 polegadas, 8GB GB de RAM, SSD de de 512 GB GB, teclado retroiluminado, câmera FaceTime HD de 1080p e Touch ID. Estelar. ",
     "estoque": 12,
     "img": "./api/produtos/macbook/macbook-foto.jpg",
+    "especificacoes": [ 
+        "Processador M1 concebido pela Apple para um enorme avanço no desempenho da CPU, GPU e aprendizagem automática;",
+        "Mais produtividade com maior autonomia: até 18 horas;",
+        "A CPU 8-core é 3,5 vezes mais rápida e está à altura dos projetos mais exigentes;",
+        "Até oito núcleos de GPU com gráficos até 5 vezes mais rápidos para as apps e jogos exigentes;",
+        "Neural Engine 16-core para uma aprendizagem automática avançada."
+
+    ],
+
     "avaliacoes": [
         {
             "nome": "Fabio Soares",
@@ -13,7 +22,7 @@
         },
         {
             "nome": "Natalia Valente",
-            "estrela": "5",
+            "estrelas": 5,
             "descricao": "A sensação de dinheiro bem investido é uma constante."
         }
     ]

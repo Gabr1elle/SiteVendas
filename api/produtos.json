@@ -7,30 +7,30 @@
     },
 
     {
-        "id": "smartphone",
-        "nome": "Smartphone",
-        "preco": 2300,
-        "img": "./api/produtos/smartphone/smartphone.jpg"
+        "id": "iphone",
+        "nome": "Iphone 14",
+        "preco": 7599,
+        "img": "./api/produtos/iphone/iphone.jpg"
     },
 
     {
-        "id": "tablet",
-        "nome": "Tablet",
+        "id": "ipad",
+        "nome": "Ipad Pro",
         "preco": 6999,
-        "img": "./api/produtos/tablet/tablet.jpg"
+        "img": "./api/produtos/ipad/ipad.jpg"
     },
 
     {
         "id": "smartwatch",
         "nome": "Smartwatch",
-        "preco": 1259,
+        "preco": 3699,
         "img": "./api/produtos/smartwatch/smartwatch.jpg"
     },
 
     {
         "id": "speaker",
-        "nome": "Speaker",
-        "preco": 599,
+        "nome": "AirPods",
+        "preco": 1499,
         "img": "./api/produtos/speaker/speaker.jpg"
     }
 

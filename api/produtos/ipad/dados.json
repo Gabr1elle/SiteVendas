@@ -1,0 +1,29 @@
+{
+    "id": "ipad",
+    "nome": "iPad Pro",
+    "preco": 6999,
+    "descricao": "Apple iPad Pro Wi-Fi de 11 polegadas (Wi-Fi, 128 GB) - Cinzento sideral",
+    "estoque": 12,
+    "img": "./api/produtos/ipad/ipad-foto.jpg",
+    "especificacoes": [
+        "Processador M1 da Apple para um desempenho avançado;",
+        "Fantástico tela Liquid Retina de 11 polegadas com ProMotion, True Tone e uma vasta gama de cores P;",
+        "O sistema de câmaras TrueDepth inclui a câmara frontal Ultra grande angular com Enquadramento central;",
+        "Grande angular de 12 MP, Ultra grande angular de 10 MP e sensor LiDAR para uma realidade aumentada envolvente;",
+        "ecnologia 5G para downloads ultrarrápidos e streaming de alta qualidade2 Ligação constante com a velocidade ultrarrápida do Wi-Fi."
+    ], 
+
+    "avaliacoes": [
+        {
+            "nome": "Igor Monteiro",
+            "estrelas": 4,
+            "descricao": "O iPad M1 é ótimo tablet para trabalhos do dia a dia e multi tarefas é perfeito, porem a utilização dele como um notebook fica um pouco limitado, um exemplo é a utlização de janelas que a apple está tentando implementar, mas ta no início e um pouco “ruim”, a atualização do IPadOS(beta) da suporte a utilização de um monitor que deveria ter a muito tempo. Consigo deixa um jogo aberto na tela por exemplo e usar o navegador, digitar texto e o tablet nao apresenta lentidão, a bateria é boa levando em consideração que usando vários aplicativos aberto, carrego uma a duas vezes sempre usando um monitor externo. Recomendo o ipad pra quem precisa de muita portabilidade, se não é o caso, o Macbook m1 vale muito mais a pena as vezes o Macbook esta ate mais barato"           
+        },
+        {
+            "nome": "Junior Prefeitinho",
+            "estrelas": 5,
+            "descricao": "Ótimo aparelho, entrega antes do esperado! Quem puder comprar, compre, é muito top. Superou minhas expectativas,!"
+        }
+
+    ]
+}

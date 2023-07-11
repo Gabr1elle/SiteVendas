@@ -1,20 +1,26 @@
 {
     "id": "speaker",
-    "nome": "Speaker",
-    "preco": 599,
-    "descricao": "lalalalalala",
+    "nome": "AirPods",
+    "preco": 1499,
+    "descricao": "Apple AirPods (3ª geração) com estojo de recarga Lightning ​​​​​​​",
     "estoque": 12,
     "img": "./api/produtos/speaker/speaker-foto.jpg",
+    "especificacoes": [
+        "O som circula ao seu redor para criar uma experiência imersiva e tridimensional com músicas, séries e filmes;",
+        "Ajusta a música ao formato do seu ouvido Microfones voltados para dentro detectam o que você está ouvindo e ajustam as frequências baixas e médias para oferecer detalhes com alta fidelidade em todas as músicas;",
+        "Os AirPods e o estojo de recarga Lightning têm classificação IPX4 de resistência à água, para você usá-los até na chuva e durante treinos intensos;",
+        "Configurar é fácil: basta tirar do estojo e pronto. Alterne automaticamente entre seus aparelhos Apple. A detecção de uso entende a diferença entre seu ouvido e outras superfícies. O recurso Ler Notificações com a Siri permite que a Siri leia as notificações para você pelos AirPods. E, com o Compartilhamento de áudio, você pode compartilhar uma música ou série com alguém, usando dois pares de AirPods."
+    ],
     "avaliacoes": [
         {
-            "nome": "Fabio",
+            "nome": "Cesar Ladeira",
             "estrelas": 5,
-            "descricao": "Otimo produto"           
+            "descricao": "Som alto e cancela bem o som ambiente externo. Bem confortável e discreto!"           
         },
         {
-            "nome": "Natalia",
-            "estrela": "1",
-            "descricao": "Pessimo!"
+            "nome": "Valter Boveri",
+            "estrelas": 5,
+            "descricao": "Estou muito satisfeito. Eu deveria ter comprado a mais tempo.!"
         }
 
     ]
