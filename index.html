@@ -27,6 +27,12 @@
 				<span class="modal_preco">{{produto.preco | numeroPreco}}</span>
 				<h2 class="modal_titulo">{{produto.nome}}</h2>
 				<p>{{produto.descricao}}</p>
+				<h4>Especificações</h4>
+				<ul id="especificacoes">
+					<li v-for="especificacoes in produto.especificacoes">
+						{{especificacoes}}
+					</li>
+				</ul>
 				<button v-if="produto.estoque > 0" class="modal_btn" @click="adicionarItem">Adicionar item</button>
 				<button v-else class="modal_btn esgotado" disable>Produto esgotado</button>
 			</div>
