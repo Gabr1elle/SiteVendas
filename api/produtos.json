@@ -1,9 +1,9 @@
 [
     {
-        "id": "notebook",
-        "nome": "Notebook",
+        "id": "macbook",
+        "nome": "Macbook",
         "preco": 3258,
-        "img": "./api/produtos/notebook/notebook.jpg"
+        "img": "./api/produtos/macbook/macbook.jpg"
     },
 
     {

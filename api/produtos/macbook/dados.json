@@ -1,0 +1,20 @@
+{
+    "id": "macbook",
+    "nome": "Mackbook",
+    "preco": 16999,
+    "descricao": "Notebook MacBook Air (2023) Apple com chip M2: tela Liquid Retina de 15,3 polegadas, 8GB GB de RAM, SSD de de 512 GB GB, teclado retroiluminado, câmera FaceTime HD de 1080p e Touch ID. Estelar. ",
+    "estoque": 12,
+    "img": "./api/produtos/macbook/macbook-foto.jpg",
+    "avaliacoes": [
+        {
+            "nome": "Fabio Soares",
+            "estrelas": 5,
+            "descricao": "Perfeito! incrivel!. É meu primeiro macbook novo e o preço dessa loja é muito mais em conta do que todos os outros sites, veio lacrado novinho!."
+        },
+        {
+            "nome": "Natalia Valente",
+            "estrela": "5",
+            "descricao": "A sensação de dinheiro bem investido é uma constante."
+        }
+    ]
+}
