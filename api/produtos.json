@@ -2,7 +2,7 @@
     {
         "id": "macbook",
         "nome": "Macbook",
-        "preco": 3258,
+        "preco": 16999,
         "img": "./api/produtos/macbook/macbook.jpg"
     },
 
